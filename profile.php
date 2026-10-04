@@ -1,3 +1,7 @@
+HEAD 
+<a href="profile.php">Tentang Kampus</a> 
+<a href="profile.php">Tentang Kami</a> 
+conflict-navbar 
 <?php 
 $pageTitle = 'Profil - Telkom University'; 
 require 'includes/header.php'; 
